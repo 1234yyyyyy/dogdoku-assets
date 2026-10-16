@@ -4,7 +4,8 @@
 
 ## 注意
 - 三聲短汪（bark_s1~3）為真實錄音，來源 BigSoundBank #2954 Barking Dog #2，CC0：https://bigsoundbank.com/barking-dog-2-s2954.html
-- whimper / growl / happy_pant 為程式合成
+- whimper（放錯時，2026-10-17 更新為溫和的短嗚嗚聲）為真實錄音，來源 BigSoundBank #1544 Dogs barking and crying #1（作者 Joseph SARDIN），CC0：https://bigsoundbank.com/dogs-barking-and-crying-1-s1544.html ，擷取 1.40–2.12 秒、高低通濾波、淡入淡出、峰值 -3 dB、單聲道 22050Hz
+- growl / happy_pant 為程式合成
 - Logo 請用 logo.png，不要用 logo.svg（舊版程式繪製）
 
 ## 檔案
@@ -24,7 +25,7 @@
 | dog_happy.png | 58071 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/dog_happy.png |
 | dog_shock.png | 53274 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/dog_shock.png |
 | dog_smile.png | 57077 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/dog_smile.png |
-| dogdoku-assets.zip | 1119427 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/dogdoku-assets.zip |
+| dogdoku-assets.zip | 1093079 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/dogdoku-assets.zip |
 | icon.png | 39141 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/icon.png |
 | logo.png | 38926 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/logo.png |
 | logo.svg | 1046 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/logo.svg |
@@ -44,7 +45,7 @@
 | sfx/rank_ding.mp3 | 7984 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/sfx/rank_ding.mp3 |
 | sfx/rank_first.mp3 | 11536 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/sfx/rank_first.mp3 |
 | sfx/rank_tick.mp3 | 1505 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/sfx/rank_tick.mp3 |
-| sfx/whimper.mp3 | 10700 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/sfx/whimper.mp3 |
+| sfx/whimper.mp3 | 6521 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/sfx/whimper.mp3 |
 | share.png | 40712 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/share.png |
 | tag_1.svg | 334 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/tag_1.svg |
 | tag_2.svg | 347 | https://raw.githubusercontent.com/1234yyyyyy/dogdoku-assets/main/tag_2.svg |
